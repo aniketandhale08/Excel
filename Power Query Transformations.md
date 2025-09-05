@@ -10,6 +10,8 @@
 8. Review green bar of header
 9. Column splitting (transform tab- split column)
 10. standardize the dates (right click on column- change type)
+11. Calculate age from data column (Add column, date, age)
+12. 
 
 
 
